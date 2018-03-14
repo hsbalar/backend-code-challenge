@@ -8,4 +8,4 @@
 /app/phpunit.xml
 /build/
 /vendor/
-/bin/
+/node_modules

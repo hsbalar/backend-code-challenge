@@ -83,3 +83,21 @@ Dear candidate, please follow this readme and solve all questions.
 - Componential thinking.
 - Knowledge of Docker.
 - Usage of MongoDB as persistance storage.
+
+## How to run application:
+
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) and [MongoDB](https://www.mongodb.com/download-center?jmp=nav#atlas) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/hsbalar/backend-code-challenge.git
+
+# Go into the repository
+$ cd backend-code-challenge
+
+# Install dependencies
+$ npm install
+
+# Run the app
+$ npm start
+```
